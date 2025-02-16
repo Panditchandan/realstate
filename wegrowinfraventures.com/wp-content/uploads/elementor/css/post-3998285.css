@@ -1,0 +1,183 @@
+.elementor-399 .elementor-element.elementor-element-63db4c49 {
+    --display: flex;
+    --min-height: 65vh;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-end;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.58;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    --margin-top: -10vw;
+    --margin-bottom: 0vw;
+    --margin-left: 0vw;
+    --margin-right: 0vw;
+    --padding-top: 0%;
+    --padding-bottom: 15%;
+    --padding-left: 0%;
+    --padding-right: 0%;
+}
+
+.elementor-399 .elementor-element.elementor-element-63db4c49::before,
+.elementor-399 .elementor-element.elementor-element-63db4c49>.elementor-background-video-container::before,
+.elementor-399 .elementor-element.elementor-element-63db4c49>.e-con-inner>.elementor-background-video-container::before,
+.elementor-399 .elementor-element.elementor-element-63db4c49>.elementor-background-slideshow::before,
+.elementor-399 .elementor-element.elementor-element-63db4c49>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-399 .elementor-element.elementor-element-63db4c49>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    background-color: #000000;
+    --background-overlay: '';
+}
+
+.elementor-399 .elementor-element.elementor-element-63db4c49,
+.elementor-399 .elementor-element.elementor-element-63db4c49::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-399 .elementor-element.elementor-element-15283ade.elementor-element {
+    --align-self: center;
+}
+
+.elementor-399 .elementor-element.elementor-element-15283ade {
+    text-align: center;
+}
+
+.elementor-399 .elementor-element.elementor-element-15283ade .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 44px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.elementor-widget-text-editor {
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var(--e-global-color-primary);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var(--e-global-color-primary);
+    border-color: var(--e-global-color-primary);
+}
+
+.elementor-399 .elementor-element.elementor-element-07f14ff {
+    text-align: center;
+    color: var(--e-global-color-a5a5bde);
+    font-family: "Poppins", Sans-serif;
+
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 2px;
+}
+
+.elementor-399 .elementor-element.elementor-element-16c2f4c4 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-399 .elementor-element.elementor-element-25056a6 {
+    --spacer-size: 50px;
+}
+
+.elementor-399 .elementor-element.elementor-element-59f488f5 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-widget-loop-grid .elementor-button {
+    background-color: var(--e-global-color-accent);
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.elementor-widget-loop-grid .elementor-pagination {
+    font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-loop-grid .e-load-more-message {
+    font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-secondary-font-weight);
+}
+
+.elementor-399 .elementor-element.elementor-element-70954632 {
+    --grid-columns: 3;
+}
+
+.elementor-399 .elementor-element.elementor-element-1a2e0ac6 {
+    --spacer-size: 363px;
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:1024px) {
+    .elementor-399 .elementor-element.elementor-element-70954632 {
+        --grid-columns: 2;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-399 .elementor-element.elementor-element-63db4c49 {
+        --min-height: 50vh;
+        --flex-direction: column;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --justify-content: center;
+        --align-items: center;
+        --gap: 5px 5px;
+        --padding-top: 0%;
+        --padding-bottom: 0%;
+        --padding-left: 0%;
+        --padding-right: 0%;
+    }
+
+    .elementor-399 .elementor-element.elementor-element-15283ade .elementor-heading-title {
+        font-size: 20px;
+    }
+
+    .elementor-399 .elementor-element.elementor-element-07f14ff {
+        font-size: 15px;
+    }
+
+    .elementor-399 .elementor-element.elementor-element-70954632 {
+        --grid-columns: 1;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-399 .elementor-element.elementor-element-59f488f5 {
+        --width: 95%;
+    }
+}

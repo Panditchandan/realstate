@@ -1,0 +1,166 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Feb 2025 14:38:31 at https://wegrowinfraventures.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wegrowinfraventures.com/ -O1 "C:\My Web Sites\Animeria Assignment" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:40:23	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=672
+14:40:23	Warning: 	File has moved from https://wegrowinfraventures.com/?p=672 to https://wegrowinfraventures.com/about-us/
+14:40:23	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=399
+14:40:23	Warning: 	File has moved from https://wegrowinfraventures.com/?p=399 to https://wegrowinfraventures.com/residential-properties/
+14:41:45	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=401
+14:41:45	Warning: 	File has moved from https://wegrowinfraventures.com/?p=401 to https://wegrowinfraventures.com/commercial-properties/
+14:42:54	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=826
+14:42:54	Warning: 	File has moved from https://wegrowinfraventures.com/?p=826 to https://wegrowinfraventures.com/blog/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=786
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=786 to https://wegrowinfraventures.com/contact-us/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=3049
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=3049 to https://wegrowinfraventures.com/residential-property/bptp-lutyens-102/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=3013
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=3013 to https://wegrowinfraventures.com/residential-property/trump-towers-2/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2311
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2311 to https://wegrowinfraventures.com/residential-property/central-park-flower-valley/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2307
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2307 to https://wegrowinfraventures.com/residential-property/dlf-the-dahlias/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2304
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2304 to https://wegrowinfraventures.com/residential-property/dlf-the-arbour/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2300
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2300 to https://wegrowinfraventures.com/residential-property/dlf-privana-west/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=3078
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=3078 to https://wegrowinfraventures.com/commercial-property/the-dome-centre/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2391
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2391 to https://wegrowinfraventures.com/commercial-property/indiabulls-one-09/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2387
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2387 to https://wegrowinfraventures.com/commercial-property/iris-broadway/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2383
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2383 to https://wegrowinfraventures.com/commercial-property/godrej-zenith-studio-apartments/
+14:43:04	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2380
+14:43:04	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2380 to https://wegrowinfraventures.com/commercial-property/suncity-the-empire/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2376
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2376 to https://wegrowinfraventures.com/commercial-property/omaxe-chandni-chowk/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2950
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2950 to https://wegrowinfraventures.com/properties-in-delhi/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2994
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2994 to https://wegrowinfraventures.com/properties-in-gurgaon/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2978
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2978 to https://wegrowinfraventures.com/properties-in-sohna/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=640
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=640 to https://wegrowinfraventures.com/privacy-policy-2/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=642
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=642 to https://wegrowinfraventures.com/terms-of-service/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=644
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=644 to https://wegrowinfraventures.com/cookies-settings/
+14:43:05	Error: 	"Not Found" (404) at link https://wegrowinfraventures.com/-negative.svg (from https://wegrowinfraventures.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.11)
+14:43:05	Error: 	"Not Found" (404) at link https://wegrowinfraventures.com/OPR/ (from https://wegrowinfraventures.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.11)
+14:43:05	Error: 	"Not Found" (404) at link https://wegrowinfraventures.com/window.location.href (from https://wegrowinfraventures.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.0)
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2298
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2298 to https://wegrowinfraventures.com/residential-property/dlf-privana-south/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2294
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2294 to https://wegrowinfraventures.com/residential-property/smartworld-one-dxp/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2290
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2290 to https://wegrowinfraventures.com/residential-property/smartworld-the-edition/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2284
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2284 to https://wegrowinfraventures.com/residential-property/puri-the-aravallis/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2278
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2278 to https://wegrowinfraventures.com/residential-property/puri-diplomatic-greens/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2262
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2262 to https://wegrowinfraventures.com/residential-property/godrej-aristocrat/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2259
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2259 to https://wegrowinfraventures.com/residential-property/godrej-zenith/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2256
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2256 to https://wegrowinfraventures.com/residential-property/godrej-vrikshya/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2251
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2251 to https://wegrowinfraventures.com/residential-property/godrej-miraya/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2248
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2248 to https://wegrowinfraventures.com/residential-property/m3m-golf-estate/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2245
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2245 to https://wegrowinfraventures.com/residential-property/m3m-latitude/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2239
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2239 to https://wegrowinfraventures.com/residential-property/m3m-merlin/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2232
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2232 to https://wegrowinfraventures.com/residential-property/m3m-capital-113/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2227
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2227 to https://wegrowinfraventures.com/residential-property/m3m-crown/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2183
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2183 to https://wegrowinfraventures.com/residential-property/m3m-mansion-sector-113-gurgaon/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2133
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2133 to https://wegrowinfraventures.com/residential-property/m3m-opus-at-m3m-merlin/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2046
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2046 to https://wegrowinfraventures.com/residential-property/elan-the-residential/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=1907
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=1907 to https://wegrowinfraventures.com/residential-property/tarc-ishva-gurgaon/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=1878
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=1878 to https://wegrowinfraventures.com/residential-property/central-park-bignonia-towers/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=1471
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=1471 to https://wegrowinfraventures.com/residential-property/m3m-golf-hills/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=1459
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=1459 to https://wegrowinfraventures.com/residential-property/m3m-altitude/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=255
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=255 to https://wegrowinfraventures.com/residential-property/m3m-antalya-hills-sector-79-gurgaon/
+14:43:05	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=353
+14:43:05	Warning: 	File has moved from https://wegrowinfraventures.com/?p=353 to https://wegrowinfraventures.com/commercial-property/m3m-atrium-57-sector-57-gurugram/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=525
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=525 to https://wegrowinfraventures.com/commercial-property/m3m-paragon-57sector-57-gurgaon/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=1921
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=1921 to https://wegrowinfraventures.com/commercial-property/m3m-jewel/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=1939
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=1939 to https://wegrowinfraventures.com/commercial-property/m3m-route-65/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2026
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2026 to https://wegrowinfraventures.com/commercial-property/reach-buzz-114/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2315
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2315 to https://wegrowinfraventures.com/commercial-property/m3m-capital-walk/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2319
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2319 to https://wegrowinfraventures.com/commercial-property/m3m-65th-avenue/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2322
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2322 to https://wegrowinfraventures.com/commercial-property/m3m-ifc/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2328
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2328 to https://wegrowinfraventures.com/commercial-property/m3m-broadway/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2331
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2331 to https://wegrowinfraventures.com/commercial-property/m3m-corner-walk/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2336
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2336 to https://wegrowinfraventures.com/commercial-property/elan-imperial-82/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2343
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2343 to https://wegrowinfraventures.com/commercial-property/elan-paradise/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2346
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2346 to https://wegrowinfraventures.com/commercial-property/elan-empire/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2348
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2348 to https://wegrowinfraventures.com/commercial-property/elan-the-mark/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2351
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2351 to https://wegrowinfraventures.com/commercial-property/elan-miracle/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2355
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2355 to https://wegrowinfraventures.com/commercial-property/elan-epic/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2359
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2359 to https://wegrowinfraventures.com/commercial-property/aipl-joy-district/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2363
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2363 to https://wegrowinfraventures.com/commercial-property/aipl-joy-central/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2366
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2366 to https://wegrowinfraventures.com/commercial-property/aipl-joy-street/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2369
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2369 to https://wegrowinfraventures.com/commercial-property/aipl-autograph/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2372
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2372 to https://wegrowinfraventures.com/commercial-property/the-omaxe-state/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=3138
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=3138 to https://wegrowinfraventures.com/why-should-we-invest-in-commercial-property-in-gurugram-in-2025/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/2025/01/22/
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/2025/01/22/ to https://wegrowinfraventures.com
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=3069
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=3069 to https://wegrowinfraventures.com/haryana-approves-36-km-extension-of-gurugram-metro/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/2024/12/18/
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/2024/12/18/ to https://wegrowinfraventures.com
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=2158
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=2158 to https://wegrowinfraventures.com/consider-buy-your-first-home-in-gurgaon/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/2024/10/25/
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/2024/10/25/ to https://wegrowinfraventures.com
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=375
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=375 to https://wegrowinfraventures.com/why-invest-in-m3m-atrium-57/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/2024/09/21/
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/2024/09/21/ to https://wegrowinfraventures.com
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=373
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=373 to https://wegrowinfraventures.com/top-5-amenities-of-m3m-antalya-hills-sector-79/
+14:43:06	Warning: 	Moved Permanently for https://wegrowinfraventures.com/?p=371
+14:43:06	Warning: 	File has moved from https://wegrowinfraventures.com/?p=371 to https://wegrowinfraventures.com/why-gurgaon-is-a-hotspot-for-real-estate-investment/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 36 seconds : 1038 links scanned, 958 files written (101850238 bytes overall) [93589758 bytes received at 339093 bytes/sec], 11757294 bytes transferred using HTTP compression in 390 files, ratio 22%, 94.4 requests per connection
+(3 errors, 152 warnings, 0 messages)
